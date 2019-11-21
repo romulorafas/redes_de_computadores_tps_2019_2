@@ -1,0 +1,18 @@
+Servidor:
+- Enviar mensagem para interessados S --> OK
+- Enviar mensagem de confirmacao de recebimento
+  da tag para cliente --> OK
+- Enviar mensagem de "tag nao existe" quando Cliente
+  tentar remover tag que nao existe para ele --> OK
+
+Cliente:
+- Select para controlar i/o + socket --> OK
+- Imprimir mensagem # que receber --> OK
+
+Decisoes de Implementação:
+
+- usuario pode enviar comando para cadastrar/descadastrar tags no meio de frases
+- usuario nao recebe mensagem enviada por ele mesmo
+- tags nao podem ser formadas por frases (com espacos)
+- mensagens sao enviadas ao usuario quando ele tenta adicionar uma tag que ja
+  existe para ele ou quando ele tenta remover uma tag que nao existe

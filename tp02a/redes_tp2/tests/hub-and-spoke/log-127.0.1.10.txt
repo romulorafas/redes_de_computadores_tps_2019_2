@@ -1,0 +1,1519 @@
+2018-06-10 22:16:26,602 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0}
+2018-06-10 22:16:26,603 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0}
+2018-06-10 22:16:26,603 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0}
+2018-06-10 22:16:26,604 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0}
+2018-06-10 22:16:26,604 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0}
+2018-06-10 22:16:26,629 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:26,654 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:26,689 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:26,715 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:26,719 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:28,607 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:28,608 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:28,608 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:28,609 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:28,610 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:28,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:28,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:28,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:28,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:28,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:30,610 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:30,610 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:30,611 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:30,612 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:30,612 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:30,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:30,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:30,692 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:30,715 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:30,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:32,606 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:32,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:32,607 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:32,608 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:32,608 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:32,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:32,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:32,694 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:32,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:32,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:34,610 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:34,611 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:34,611 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:34,612 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:34,612 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:34,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:34,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:34,696 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:34,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:34,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:36,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:36,606 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:36,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:36,607 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:36,608 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:36,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:36,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:36,691 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:36,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:36,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:38,607 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:38,608 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:38,608 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:38,608 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:38,609 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:38,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:38,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:38,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:38,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:38,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:40,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:40,605 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:40,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:40,606 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:40,607 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:40,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:40,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:40,693 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:40,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:40,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:42,606 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:42,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:42,607 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:42,608 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:42,608 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:42,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:42,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:42,694 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:42,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:42,719 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:44,606 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:44,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:44,608 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:44,609 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:44,609 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:44,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:44,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:44,691 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:44,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:44,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:46,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:46,606 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:46,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:46,606 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:46,607 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:46,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:46,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:46,692 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:46,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:46,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:48,607 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:48,610 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:48,610 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:48,610 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:48,611 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:48,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:48,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:48,694 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:48,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:48,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:50,606 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:50,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:50,607 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:50,608 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:50,608 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:50,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:50,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:50,693 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:50,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:50,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:52,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:52,606 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:52,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:52,607 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:52,607 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:52,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:52,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:52,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:52,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:52,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:54,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:54,605 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:54,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:54,606 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:54,607 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:54,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:54,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:54,692 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:54,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:54,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:56,606 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:56,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:56,607 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:56,608 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:56,608 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:56,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:56,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:56,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:56,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:56,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:16:58,609 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:58,610 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:58,611 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:16:58,611 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:16:58,611 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:16:58,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:16:58,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:16:58,692 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:16:58,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:16:58,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:00,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:00,605 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:00,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:00,606 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:00,606 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:00,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:00,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:00,693 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:00,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:00,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:02,608 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:02,609 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:02,609 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:02,610 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:02,610 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:02,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:02,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:02,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:02,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:02,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:04,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:04,605 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:04,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:04,606 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:04,607 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:04,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:04,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:04,692 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:04,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:04,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:06,606 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:06,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:06,607 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:06,607 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:06,608 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:06,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:06,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:06,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:06,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:06,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:08,609 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:08,609 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:08,610 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:08,610 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:08,611 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:08,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:08,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:08,692 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:08,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:08,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:10,607 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:10,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:10,608 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:10,608 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:10,609 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:10,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:10,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:10,694 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:10,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:10,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:12,608 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:12,609 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:12,610 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:12,611 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:12,611 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:12,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:12,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:12,692 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:12,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:12,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:14,608 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:14,608 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:14,609 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:14,609 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:14,610 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:14,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:14,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:14,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:14,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:14,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:16,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:16,606 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:16,606 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:16,606 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:16,607 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:16,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:16,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:16,695 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:16,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:16,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:18,605 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:18,605 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:18,605 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:18,606 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:18,606 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:18,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:18,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:18,694 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:18,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:18,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:20,607 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:20,607 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:20,608 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:20,608 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:20,609 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:20,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:20,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:20,694 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:20,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:20,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:22,610 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:22,610 send_update: sending update to 127.0.1.4: {'127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:22,611 send_update: sending update to 127.0.1.2: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 22:17:22,611 send_update: sending update to 127.0.1.3: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.5': 10}
+2018-06-10 22:17:22,612 send_update: sending update to 127.0.1.5: {'127.0.1.1': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:22,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:22,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:22,691 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 22:17:22,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:22,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:24,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:24,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:24,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:24,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:24,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:24,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:24,696 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 22:17:24,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:24,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:26,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:26,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:26,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:26,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:26,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:26,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:26,696 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 22:17:26,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:26,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:28,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:28,605 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:28,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:28,606 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:28,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:28,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:28,694 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 22:17:28,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:28,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:30,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:30,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:30,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:30,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:30,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:30,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:30,695 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 22:17:30,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:30,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:32,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:32,605 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:32,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:32,606 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:32,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:32,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:32,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:32,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:34,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:34,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:34,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:34,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:34,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:34,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:34,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:34,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:36,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:36,605 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:36,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:36,606 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:36,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:36,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:36,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:36,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:38,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:38,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:38,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:38,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:38,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:38,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:38,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:38,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:40,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:40,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:40,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:40,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:40,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:40,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:40,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:40,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:42,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:42,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:42,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:42,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:42,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:42,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:42,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:42,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:44,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:44,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:44,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:44,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:44,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:44,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:44,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:44,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:46,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:46,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:46,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:46,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:46,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:46,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:46,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:46,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:48,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:48,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:48,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:48,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:48,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:48,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:48,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:48,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:50,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:50,613 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:50,613 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:50,614 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:50,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:50,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:50,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:50,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:52,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:52,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:52,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:52,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:52,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:52,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:52,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:52,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:54,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:54,611 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:54,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:54,612 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:54,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:54,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:54,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:54,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:56,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:56,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:56,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:56,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:56,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:56,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:56,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:56,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:17:58,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:58,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:17:58,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:17:58,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:17:58,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:17:58,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:17:58,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:17:58,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:00,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:00,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:00,613 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:00,614 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:00,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:00,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:00,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:00,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:02,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:02,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:02,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:02,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:02,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:02,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:02,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:02,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:04,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:04,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:04,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:04,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:04,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:04,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:04,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:04,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:06,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:06,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:06,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:06,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:06,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:06,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:06,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:06,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:08,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:08,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:08,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:08,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:08,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:08,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:08,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:08,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:10,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:10,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:10,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:10,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:10,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:10,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:10,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:10,719 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:12,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:12,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:12,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:12,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:12,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:12,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:12,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:12,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:14,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:14,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:14,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:14,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:14,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:14,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:14,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:14,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:16,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:16,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:16,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:16,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:16,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:16,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:16,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:16,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:18,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:18,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:18,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:18,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:18,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:18,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:18,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:18,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:20,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:20,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:20,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:20,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:20,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:20,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:20,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:20,719 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:22,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:22,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:22,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:22,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:22,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:22,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:22,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:22,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:24,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:24,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:24,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:24,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:24,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:24,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:24,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:24,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:26,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:26,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:26,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:26,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:26,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:26,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:26,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:26,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:28,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:28,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:28,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:28,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:28,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:28,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:28,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:28,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:30,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:30,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:30,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:30,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:30,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:30,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:30,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:30,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:32,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:32,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:32,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:32,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:32,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:32,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:32,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:32,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:34,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:34,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:34,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:34,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:34,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:34,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:34,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:34,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:36,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:36,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:36,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:36,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:36,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:36,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:36,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:36,727 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:38,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:38,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:38,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:38,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:38,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:38,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:38,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:38,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:40,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:40,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:40,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:40,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:40,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:40,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:40,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:40,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:42,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:42,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:42,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:42,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:42,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:42,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:42,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:42,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:44,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:44,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:44,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:44,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:44,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:44,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:44,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:44,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:46,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:46,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:46,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:46,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:46,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:46,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:46,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:46,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:48,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:48,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:48,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:48,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:48,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:48,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:48,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:48,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:50,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:50,614 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:50,615 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:50,615 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:50,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:50,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:50,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:50,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:52,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:52,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:52,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:52,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:52,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:52,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:52,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:52,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:54,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:54,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:54,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:54,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:54,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:54,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:54,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:54,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:56,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:56,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:56,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:56,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:56,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:56,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:56,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:56,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:18:58,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:58,605 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:18:58,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:18:58,606 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:18:58,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:18:58,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:18:58,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:18:58,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:00,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:00,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:00,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:00,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:00,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:00,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:00,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:00,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:02,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:02,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:02,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:02,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:02,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:02,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:02,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:02,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:04,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:04,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:04,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:04,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:04,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:04,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:04,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:04,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:06,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:06,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:06,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:06,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:06,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:06,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:06,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:06,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:08,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:08,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:08,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:08,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:08,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:08,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:08,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:08,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:10,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:10,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:10,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:10,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:10,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:10,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:10,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:10,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:12,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:12,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:12,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:12,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:12,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:12,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:12,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:12,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:14,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:14,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:14,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:14,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:14,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:14,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:14,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:14,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:16,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:16,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:16,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:16,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:16,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:16,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:16,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:16,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:18,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:18,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:18,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:18,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:18,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:18,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:18,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:18,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:20,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:20,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:20,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:20,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:20,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:20,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:20,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:20,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:22,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:22,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:22,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:22,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:22,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:22,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:22,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:22,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:24,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:24,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:24,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:24,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:24,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:24,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:24,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:24,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:26,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:26,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:26,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:26,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:26,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:26,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:26,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:26,719 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:28,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:28,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:28,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:28,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:28,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:28,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:28,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:28,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:30,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:30,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:30,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:30,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:30,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:30,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:30,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:30,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:32,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:32,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:32,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:32,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:32,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:32,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:32,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:32,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:34,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:34,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:34,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:34,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:34,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:34,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:34,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:34,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:36,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:36,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:36,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:36,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:36,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:36,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:36,716 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:36,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:38,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:38,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:38,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:38,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:38,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:38,659 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:38,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:38,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:40,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:40,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:40,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:40,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:40,631 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:40,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:40,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:40,723 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:42,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:42,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:42,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:42,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:42,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:42,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:42,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:42,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:44,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:44,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:44,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:44,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:44,632 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:44,655 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:44,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:44,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:46,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:46,605 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:46,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:46,606 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:46,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:46,658 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:46,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:46,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:48,608 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:48,608 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:48,609 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:48,609 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:48,636 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:48,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:48,719 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:48,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:50,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:50,613 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:50,614 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:50,614 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:50,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:50,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:50,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:50,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:52,610 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:52,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:52,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:52,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:52,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:52,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:52,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:52,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:54,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:54,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:54,611 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:54,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:54,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:54,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:54,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:54,720 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:56,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:56,606 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:56,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:56,607 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:56,634 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:56,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:56,718 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:56,722 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:19:58,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:58,609 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:19:58,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:19:58,610 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:19:58,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:19:58,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:19:58,721 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:19:58,724 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:20:00,605 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:20:00,605 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:20:00,606 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:20:00,606 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:20:00,635 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:20:00,657 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:20:00,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:20:00,719 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:20:02,607 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:20:02,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:20:02,608 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:20:02,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:20:02,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:20:02,660 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:20:02,717 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:20:02,725 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:20:04,609 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:20:04,610 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:20:04,610 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:20:04,611 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:20:04,633 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 22:20:04,656 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 22:20:04,720 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 22:20:04,721 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 22:20:06,606 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 22:20:06,607 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.3': 10}
+2018-06-10 22:20:06,607 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10}
+2018-06-10 22:20:06,608 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:29:58,230 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0}
+2018-06-10 23:29:58,231 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0}
+2018-06-10 23:29:58,232 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0}
+2018-06-10 23:29:58,232 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0}
+2018-06-10 23:29:58,232 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0}
+2018-06-10 23:29:58,318 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:29:58,320 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:29:58,323 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:00,236 send_update: sending update to 127.0.1.5: {'127.0.1.3': 10, '127.0.1.10': 0, '127.0.1.4': 10}
+2018-06-10 23:30:00,237 send_update: sending update to 127.0.1.3: {'127.0.1.5': 10, '127.0.1.10': 0, '127.0.1.4': 10}
+2018-06-10 23:30:00,237 send_update: sending update to 127.0.1.1: {'127.0.1.5': 10, '127.0.1.3': 10, '127.0.1.10': 0, '127.0.1.4': 10}
+2018-06-10 23:30:00,237 send_update: sending update to 127.0.1.2: {'127.0.1.5': 10, '127.0.1.3': 10, '127.0.1.10': 0, '127.0.1.4': 10}
+2018-06-10 23:30:00,238 send_update: sending update to 127.0.1.4: {'127.0.1.5': 10, '127.0.1.3': 10, '127.0.1.10': 0}
+2018-06-10 23:30:00,323 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:00,323 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:00,329 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:34,757 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0}
+2018-06-10 23:30:34,758 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0}
+2018-06-10 23:30:34,758 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0}
+2018-06-10 23:30:34,758 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0}
+2018-06-10 23:30:34,758 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0}
+2018-06-10 23:30:34,783 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:34,808 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:34,810 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:34,810 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:36,759 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:30:36,760 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:36,760 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:36,760 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:36,761 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:36,762 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:36,787 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:36,814 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:36,815 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:36,815 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:38,758 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:30:38,759 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:38,759 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:38,760 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:38,760 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:30:38,760 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:38,787 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:38,811 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:38,815 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:38,815 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:40,761 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:40,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:40,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:40,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:40,763 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:40,764 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:30:40,788 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:40,815 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:40,815 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:40,815 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:42,758 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:30:42,759 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:42,760 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:42,760 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:42,761 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:30:42,761 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:42,786 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:42,812 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:42,812 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:42,813 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:44,762 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:44,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:44,763 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:44,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:44,764 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:44,764 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:30:44,790 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:44,813 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:44,813 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:44,813 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:46,761 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:46,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:46,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.5': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:46,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:30:46,763 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.1': 10, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:46,764 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:30:46,785 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:46,815 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:46,815 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:46,815 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:48,758 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 23:30:48,759 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:48,759 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:48,760 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:48,760 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:48,788 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:48,811 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:48,811 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:48,812 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:50,761 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:50,761 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:50,762 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:50,762 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:50,762 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 23:30:50,789 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:50,814 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:50,814 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:50,814 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:52,758 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 23:30:52,759 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:52,760 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:52,760 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:52,761 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:52,787 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:52,813 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:52,813 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:52,814 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:54,761 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:54,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:54,762 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:54,763 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:54,763 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 23:30:54,785 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:54,811 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:54,811 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:54,811 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:56,761 process_message: message from 127.0.1.1; not a neighbor, ignoring
+2018-06-10 23:30:56,761 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:56,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:56,762 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:56,762 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:56,786 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:56,815 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:56,815 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:56,815 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:30:58,760 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:30:58,761 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:58,761 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:30:58,761 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:30:58,789 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:30:58,812 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:30:58,812 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:30:58,812 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:00,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:00,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:00,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:00,763 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:00,785 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:00,814 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:00,814 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:00,814 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:02,763 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:02,764 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:02,764 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:02,765 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:02,786 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:02,810 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:02,811 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:02,811 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:04,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:04,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:04,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:04,763 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:04,786 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:04,813 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:04,814 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:04,814 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:06,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:06,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:06,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:06,763 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:06,786 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:06,810 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:06,815 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:06,816 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:08,759 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:08,760 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:08,760 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:08,761 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:08,789 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:08,813 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:08,813 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:08,813 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:10,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:10,763 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:10,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:10,764 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:10,786 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:10,814 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:10,815 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:10,815 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:12,759 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:12,760 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:12,760 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:12,761 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:12,788 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:12,811 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:12,811 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:12,812 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:14,761 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:14,761 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:14,762 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:14,762 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:14,785 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:14,814 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:14,814 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:14,814 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:16,764 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:16,765 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:16,765 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:16,765 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:16,788 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:16,810 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:16,810 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:16,811 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:18,762 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:18,762 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:18,763 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:18,763 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:18,785 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:18,813 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:18,813 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:18,813 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:20,760 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.3': 10}
+2018-06-10 23:31:20,761 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:20,761 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.5': 10, '127.0.1.2': 10, '127.0.1.3': 10}
+2018-06-10 23:31:20,762 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.4': 10, '127.0.1.5': 10}
+2018-06-10 23:31:20,786 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:20,815 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:20,816 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:23,709 send_update: sending update to 127.0.1.1: {'127.0.1.10': 0}
+2018-06-10 23:31:23,710 send_update: sending update to 127.0.1.2: {'127.0.1.10': 0}
+2018-06-10 23:31:23,710 send_update: sending update to 127.0.1.3: {'127.0.1.10': 0}
+2018-06-10 23:31:23,711 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0}
+2018-06-10 23:31:23,711 send_update: sending update to 127.0.1.5: {'127.0.1.10': 0}
+2018-06-10 23:31:23,730 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:23,738 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:23,740 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:23,743 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:23,743 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:25,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:25,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:25,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:25,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:25,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:25,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:25,739 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:25,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:25,743 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:25,744 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:27,715 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:27,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:27,716 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:27,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:27,718 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:27,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:27,740 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:27,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:27,744 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:27,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:29,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:29,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:29,717 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:29,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:29,717 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:29,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:29,742 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:29,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:29,748 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:29,748 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:31,715 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:31,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:31,716 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:31,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:31,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:31,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:31,742 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:31,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:31,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:31,749 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:33,713 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:33,713 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:33,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:33,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:33,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:33,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:33,741 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:33,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:33,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:33,744 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:35,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:35,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:35,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:35,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:35,719 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:35,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:35,741 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:35,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:35,746 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:35,746 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:37,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:37,717 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:37,717 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:37,718 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:37,718 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:37,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:37,740 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:37,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:37,746 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:37,748 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:39,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:39,717 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:39,718 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:39,718 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:39,718 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:39,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:39,743 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:39,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:39,746 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:39,746 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:41,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:41,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:41,718 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:41,718 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:41,719 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:41,731 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:41,739 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:41,745 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:41,745 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:41,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:43,712 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:43,713 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:43,713 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:43,714 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:43,714 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:43,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:43,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:43,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:43,748 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:43,749 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:45,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:45,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:45,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:45,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:45,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:45,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:45,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:45,744 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:45,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:45,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:47,715 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:47,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:47,716 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:47,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:47,717 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:47,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:47,740 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:47,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:47,746 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:47,747 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:49,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:49,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:49,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:49,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:49,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:49,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:49,740 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:49,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:49,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:49,745 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:51,712 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:51,713 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:51,713 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:51,713 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:51,714 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:51,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:51,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:51,743 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:51,746 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:51,746 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:53,713 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:53,714 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:53,714 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:53,715 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:53,715 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:53,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:53,743 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:53,743 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:53,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:53,744 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:55,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:55,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:55,717 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:55,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:55,717 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:55,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:55,740 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:55,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:55,745 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:55,746 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:57,715 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:57,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:57,716 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:57,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:57,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:57,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:57,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:57,741 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:57,746 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:57,746 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:31:59,713 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:59,714 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:31:59,714 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:59,715 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:31:59,715 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:31:59,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:31:59,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:31:59,744 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:31:59,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:31:59,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:01,717 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:01,717 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:01,718 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:01,718 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:01,719 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:01,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:01,743 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:01,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:01,744 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:01,745 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:03,713 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:03,714 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:03,714 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:03,715 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:03,715 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:03,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:03,743 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:03,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:03,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:03,749 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:05,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:05,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:05,717 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:05,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:05,718 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:05,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:05,741 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:05,745 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:05,745 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:05,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:07,713 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:07,713 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:07,714 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:07,714 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:07,715 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:07,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:07,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:07,746 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:07,748 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:07,748 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:09,715 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:09,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:09,716 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:09,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:09,717 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:09,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:09,741 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:09,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:09,747 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:09,747 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:11,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:11,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:11,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:11,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:11,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:11,731 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:11,743 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:11,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:11,748 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:11,748 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:13,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:13,715 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:13,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:13,715 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:13,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:13,732 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:13,743 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:13,744 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:13,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:13,749 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:15,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:15,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:15,717 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:15,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:15,718 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:15,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:15,742 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:15,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:15,746 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:15,746 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:17,713 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:17,713 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:17,714 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:17,714 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:17,715 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:17,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:17,744 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:17,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:17,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:17,744 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:19,712 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:19,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:19,716 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:19,716 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:19,717 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:19,730 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:19,739 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:19,745 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:19,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:19,745 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:21,717 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:21,717 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:21,718 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:21,718 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:21,719 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:21,731 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:21,742 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:21,742 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:21,748 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:21,748 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:23,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:23,716 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:23,717 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:23,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:23,718 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:23,733 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:23,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:23,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:23,744 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:23,745 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:25,712 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:25,712 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:25,713 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:25,713 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:25,713 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:25,735 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:25,741 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:25,741 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:25,747 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:25,747 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:27,714 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:27,714 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:27,715 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:27,715 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:27,716 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:27,734 update: processing routes to 1 destinations through 127.0.1.1
+2018-06-10 23:32:27,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:27,745 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:27,745 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:27,745 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:29,716 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:29,717 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:29,717 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:29,717 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:29,718 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:29,740 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:29,746 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:29,747 update: processing routes to 1 destinations through 127.0.1.3
+2018-06-10 23:32:29,747 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:31,713 send_update: sending update to 127.0.1.4: {'127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:31,714 send_update: sending update to 127.0.1.5: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.3': 10}
+2018-06-10 23:32:31,714 send_update: sending update to 127.0.1.2: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.3': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:31,714 send_update: sending update to 127.0.1.1: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.3': 10, '127.0.1.5': 10}
+2018-06-10 23:32:31,715 send_update: sending update to 127.0.1.3: {'127.0.1.4': 10, '127.0.1.10': 0, '127.0.1.2': 10, '127.0.1.1': 10, '127.0.1.5': 10}
+2018-06-10 23:32:31,743 update: processing routes to 1 destinations through 127.0.1.2
+2018-06-10 23:32:31,744 update: processing routes to 1 destinations through 127.0.1.4
+2018-06-10 23:32:31,744 update: processing routes to 1 destinations through 127.0.1.5
+2018-06-10 23:32:31,749 update: processing routes to 1 destinations through 127.0.1.3

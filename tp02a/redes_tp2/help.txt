@@ -1,0 +1,58 @@
+
+TAREFAS
+
+- Comando inicial tela P--> OK
+- leitura arquivo startup S --> OK
+- Cod decod JSON S --> OK
+- Func Add S --> OK
+- Func Del S --> OK
+
+- trace
+  - identificar next hop para enviar trace P --> OK
+  - adicionar roteadores percorridos no hops P --> OK
+  - funcao que recebe trace e o "reencaminha" para destino P --> OK
+  - enviar dado quando trace chegar ao destino P --> OK
+  - Retornar mensagem de erro à origem informando se não houver rota até o destino. S --> OK mas falta testar
+
+- enviar dados
+  - tabela de cargas S --> Ok
+  - funcao que recebe o dado e o "reencaminha" para destino P --> OK
+  - usar a tabela de cargas P --> OK, necessario testar mais
+  - reroteamento imediato S -->
+
+- roteamento
+  - funcao merge_route P --> OK
+  - funcao que retorna nextHop para alcancar destino P --> OK
+  - envio de mensagens update P --> OK
+  - tratamento de mensages update recebidas usando merge_route P --> OK
+  - atualizacao rotas (split horizon) P --> OK
+  - Timer atualizacao periodica S --> OK
+  - CORRIGIR DADO DUPLICADO NA TABELA DE ROTEAMENTO P --> OK
+  - CORRIGIR remove_old_routes S --> OK
+
+- remocao de rota desatualizada S --> OK
+- imprimir payload de mensagem de dado somente se for para o proprio roteador S --> OK
+- restringir parametros de entrada: apenas startup n é obrigatorio S --> OK
+- Envio UDP S --> OK
+- Corrigir Add P --> OK
+- Threading S --> OK
+- Send and receive json msgs S --> OK
+- Receber mensagens por parte S --> OK
+
+
+----------------------------------------------------------------------
+INTERPRETAÇÃO DA ESPECIFICACAO:
+
+Exemplo de chamada do programa:
+python router.py --addr 127.0.1.1 --update-period 10 --startup-commands startup.txt
+
+P: periodo pode ser mudado em tempo de execucao?
+S: Pelo visto, não. Pode mudar entre execuções.
+
+
+Comandos do teclado:
+
+add <ip> <peso>
+del <ip>
+trace <ip>
+quit
